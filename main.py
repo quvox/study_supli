@@ -1,12 +1,19 @@
+# from grade6_lv2 import chapters_japanese as chapters
+# from grade6_lv2 import chapters_science as chapters
+from grade6_lv2 import chapters_social as chapters
+
 #from grade6_basic import chapters_math as chapters
 #from grade6_basic import chapters_japanese as chapters
-from grade6_basic import chapters_science as chapters
+#from grade6_basic import chapters_science as chapters
+#from grade6_basic import chapters_math as chapters
 #from grade6_basic import chapters_social as chapters
+
 #from grade5_lv0 import chapters_math as chapters
+#from grade5_lv2 import chapters_math as chapters
 #from grade5_lv2 import chapters_japanese as chapters
 #from grade5_lv2 import chapters_science as chapters
 #from grade5_lv2 import chapters_social as chapters
-#from grade5_lv2 import chapters_math as chapters
+#from grade5_basic import chapters_math as chapters
 
 exam_included = True   # 各講座に確認テストがあるかどうか
 
